@@ -12,3 +12,5 @@ Implements a simple cointegration-based pair trading strategy.
 - Generates cumulative returns plot
 
 ## Quickstart
+pip install -r requirements.txt
+python run_demo.py
